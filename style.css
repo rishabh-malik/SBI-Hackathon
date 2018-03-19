@@ -1,0 +1,92 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background: #EDEDED;
+}
+
+.top-nav {
+	height: 10vh;
+	background: #0272E4;
+}
+
+.main-body {
+	width: 80vw;
+	margin: auto;
+	height: 85vh;
+}
+
+.current {
+	margin:auto;
+}
+
+.current-card {
+	padding: 1%;
+	background: #FFF;
+}
+
+.current-card-name {
+	font-size: 3vh;	
+}
+.current-card-name-time {
+	font-size: 2vh;
+}
+
+.current-card-image {
+	background: #D4CCCC;
+	height: 8vh;
+	width: 8vh;
+}
+
+.unacknowledged-card {
+	padding: 1%;
+	background: #FFF;
+}
+
+.unacknowledged-card-image {
+	background: #D4CCCC;
+	height: 5vh;
+	width: 5vh;
+}
+
+.unacknowledged-name {
+	font-size: 3vh;
+}
+
+.acknowledged-name {
+	font-size: 3vh;
+}
+
+.acknowledged-card {
+	padding: 1%;
+	background: #FFF;
+}
+
+.acknowledged-card-image {
+	background: #D4CCCC;
+	height: 5vh;
+	width: 5vh;
+}
+
+.acknowledged-name {
+	font-size: 3vh;
+}
+
+.all-card {
+	padding: 1%;
+	background: #FFF;
+}
+
+.all-card-image {
+	background: #D4CCCC;
+	height: 5vh;
+	width: 5vh;
+}
+
+.all-name {
+	font-size: 3vh;
+}
+
+.divider-title {
+	font-size: 2vh;
+}
